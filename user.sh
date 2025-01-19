@@ -1,8 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/bash
 ######################################
 #        PROJECT: T-Remix            #
-#        Author: Ashish              #
-#  email: ashishsingh103020@gmailcom #
+#        Author: robert              #
+#  email: robertsingh103020@gmailcom #
 #      All copyright reserved        #
 ######################################
 
